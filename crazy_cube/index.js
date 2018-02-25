@@ -6,8 +6,8 @@ window.addEventListener("load", function() {
   const shapeWidth = 200,
         shapeHeight = 200;
 
-  canvas.width = 1350;
-  canvas.height = 650;
+  canvas.width = 1300;
+  canvas.height = 600;
 
   gl = canvas.getContext('webgl');
 
